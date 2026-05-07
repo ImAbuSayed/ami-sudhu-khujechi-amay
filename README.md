@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ami-sudhu-khujechi-amay/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Ami Sudhu Khujechi Amay](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Ami Sudhu Khujechi Amay](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> আমি শুধু খুঁজেছি আমায়
+> তোমার ওই চোখের মায়ায়
+> কী নেশা লুকিয়ে রেখেছো
+> আমায় তুমি পাগল করেছো
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
