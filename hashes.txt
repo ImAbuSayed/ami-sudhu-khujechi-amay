@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ami Sudhu Khujechi Amay
+
+This log tracks the cryptographic history and versioning for the song **Ami Sudhu Khujechi Amay** (ami-sudhu-khujechi-amay).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:00:40.077824 | `v1` | `e688e7d4ce3a0a2c5e050ace286d9380f2c2821ca0e6180154c6dc4910546559` | `3d1febc6220f55f93fa059d95d66b4a6f4ce133dc829501513570f8f5a29b113` | `2026-05-08_ami-sudhu-khujechi-amay-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
